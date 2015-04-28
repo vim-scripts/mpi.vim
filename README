@@ -1,0 +1,13 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5163
+
+Now the plugin has full support of MPI 2.2 with C, C++ and Fortran bingding, Golang binding is on the way.
+
+Please go to github for the latest version.
+https://github.com/jiangxincode/mpi.vim
+
+If you have some advises, please tell me, open a issue, give me a pull request, or send me a email.
+
+Hava a good time on MPI.
+
+
+
